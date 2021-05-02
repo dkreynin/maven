@@ -1,4 +1,4 @@
-package org.apache.maven.plugin;
+package org.apache.maven.plugin.internal;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
@@ -27,6 +27,7 @@ import org.apache.maven.artifact.Artifact;
 import org.apache.maven.artifact.DefaultArtifact;
 import org.apache.maven.artifact.handler.DefaultArtifactHandler;
 import org.apache.maven.plugin.descriptor.PluginDescriptor;
+import org.apache.maven.plugin.internal.MavenPluginValidator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;

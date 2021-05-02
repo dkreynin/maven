@@ -31,7 +31,6 @@ import org.apache.maven.plugin.DebugConfigurationListener;
 import org.apache.maven.plugin.ExtensionRealmCache;
 import org.apache.maven.plugin.InvalidPluginDescriptorException;
 import org.apache.maven.plugin.MavenPluginManager;
-import org.apache.maven.plugin.MavenPluginValidator;
 import org.apache.maven.plugin.Mojo;
 import org.apache.maven.plugin.MojoExecution;
 import org.apache.maven.plugin.MojoNotFoundException;

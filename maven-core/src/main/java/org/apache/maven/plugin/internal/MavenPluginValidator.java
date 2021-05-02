@@ -1,4 +1,4 @@
-package org.apache.maven.plugin;
+package org.apache.maven.plugin.internal;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
@@ -26,7 +26,7 @@ import org.apache.maven.plugin.descriptor.PluginDescriptor;
 /**
  * MavenPluginValidator
  */
-public interface MavenPluginValidator
+interface MavenPluginValidator
 {
 
     void validate( Artifact pluginArtfiact, PluginDescriptor pluginDescriptor, List<String> errors );

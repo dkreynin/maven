@@ -1,4 +1,4 @@
-package org.apache.maven.plugin;
+package org.apache.maven.plugin.internal;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
@@ -32,7 +32,7 @@ import javax.inject.Singleton;
  */
 @Named
 @Singleton
-public class DefaultMavenPluginValidator
+class DefaultMavenPluginValidator
         implements MavenPluginValidator
 {
 
