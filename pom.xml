@@ -61,8 +61,8 @@ under the License.
     <guavaVersion>30.1-jre</guavaVersion>
     <guavafailureaccessVersion>1.0.1</guavafailureaccessVersion>
     <sisuInjectVersion>0.3.4</sisuInjectVersion>
-    <logbackVersion>1.2.5</logbackVersion>
-    <jsoupVersion>1.01.1</jsoupVersion>
+    <logback.Version>1.2.5</logback.Version>
+    <jsoupVersion>1.1.1</jsoupVersion>
     <securityDispatcherVersion>1.4</securityDispatcherVersion>
     <cipherVersion>1.8</cipherVersion>
     <modelloVersion>1.11</modelloVersion>
